@@ -7,3 +7,9 @@ describe('project-one App', () => {
   beforeEach(() => {
     page = new ProjectOnePage();
   });
+
+  it('should display welcome message', () => {
+    page.navigateTo();
+    expect(page.getParagraphText()).toEqual('Welcome to app!!');
+  });
+});
