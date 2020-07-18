@@ -1,1 +1,1 @@
-import { browser, by, element } f
+import { browser, by, element } from 'protract
