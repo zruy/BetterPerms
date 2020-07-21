@@ -1,3 +1,3 @@
 import { browser, by, element } from 'protractor';
 
-export class
+export class ProjectOnePa
