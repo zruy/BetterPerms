@@ -5,4 +5,4 @@ export class ProjectOnePage {
     return browser.get('/');
   }
 
-  getP
+  getParagraphText(
