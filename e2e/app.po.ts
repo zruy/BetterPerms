@@ -6,4 +6,4 @@ export class ProjectOnePage {
   }
 
   getParagraphText() {
-    ret
+    return elemen
