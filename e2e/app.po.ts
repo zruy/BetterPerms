@@ -6,4 +6,4 @@ export class ProjectOnePage {
   }
 
   getParagraphText() {
-    return elemen
+    return element(by.css('app-ro
