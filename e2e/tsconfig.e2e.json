@@ -1,2 +1,3 @@
 {
-  "extends": "../tsco
+  "extends": "../tsconfig.json",
+  "comp
