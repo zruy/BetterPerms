@@ -3,4 +3,5 @@
   "compilerOptions": {
     "outDir": "../out-tsc/e2e",
     "module": "commonjs",
-    "target
+    "target": "es5",
+    "ty
