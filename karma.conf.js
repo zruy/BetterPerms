@@ -1,1 +1,1 @@
-// Karma confi
+// Karma configuration file, s
