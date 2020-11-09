@@ -1,1 +1,1 @@
-// Karma configuration file, s
+// Karma configuration file, see link for more i
