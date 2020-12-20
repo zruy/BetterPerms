@@ -13,3 +13,4 @@ module.exports = function (config) {
       require('@angular/cli/plugins/karma')
     ],
     client:{
+      clearCon
