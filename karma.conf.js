@@ -13,4 +13,4 @@ module.exports = function (config) {
       require('@angular/cli/plugins/karma')
     ],
     client:{
-      clearContext: fal
+      clearContext: false // leave Jasmine Sp
