@@ -13,4 +13,5 @@ module.exports = function (config) {
       require('@angular/cli/plugins/karma')
     ],
     client:{
-      clearContext: false // leave Jasmine Spec Runner output visible in b
+      clearContext: false // leave Jasmine Spec Runner output visible in browser
+    
