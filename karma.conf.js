@@ -20,4 +20,5 @@ module.exports = function (config) {
       fixWebpackSourcePaths: true
     },
     angularCli: {
-      environment: 
+      environment: 'dev'
+    },
