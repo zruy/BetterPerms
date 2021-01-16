@@ -22,4 +22,4 @@ module.exports = function (config) {
     angularCli: {
       environment: 'dev'
     },
-    r
+    reporters: ['prog
