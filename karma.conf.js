@@ -22,4 +22,5 @@ module.exports = function (config) {
     angularCli: {
       environment: 'dev'
     },
-    reporters: ['prog
+    reporters: ['progress', 'kjhtml'],
+  
