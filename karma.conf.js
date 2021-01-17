@@ -24,4 +24,5 @@ module.exports = function (config) {
     },
     reporters: ['progress', 'kjhtml'],
     port: 9876,
-    colo
+    colors: true,
+    l
