@@ -1,3 +1,5 @@
 import { TestBed, async } from '@angular/core/testing';
 
-import { AppComponent } from './app.compo
+import { AppComponent } from './app.component';
+
+descr
