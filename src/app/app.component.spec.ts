@@ -4,4 +4,4 @@ import { AppComponent } from './app.component';
 
 describe('AppComponent', () => {
   beforeEach(async(() => {
-    TestBed.
+    TestBed.configureTestingMo
