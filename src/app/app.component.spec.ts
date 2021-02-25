@@ -7,4 +7,5 @@ describe('AppComponent', () => {
     TestBed.configureTestingModule({
       declarations: [
         AppComponent
+      ],
  
