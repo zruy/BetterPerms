@@ -8,4 +8,4 @@ describe('AppComponent', () => {
       declarations: [
         AppComponent
       ],
-    }).com
+    }).compileComponen
