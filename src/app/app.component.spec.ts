@@ -12,4 +12,4 @@ describe('AppComponent', () => {
   }));
 
   it('should create the app', async(() => {
-    con
+    const fixture = 
