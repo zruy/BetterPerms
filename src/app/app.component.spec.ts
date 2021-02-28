@@ -12,4 +12,4 @@ describe('AppComponent', () => {
   }));
 
   it('should create the app', async(() => {
-    const fixture = TestBed.createCompon
+    const fixture = TestBed.createComponent(AppCompon
