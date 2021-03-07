@@ -17,4 +17,4 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   }));
 
-  it(`should have as
+  it(`should have as title 'app
