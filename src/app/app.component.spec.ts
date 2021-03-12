@@ -18,4 +18,4 @@ describe('AppComponent', () => {
   }));
 
   it(`should have as title 'app'`, async(() => {
-    const fixture = TestBed.creat
+    const fixture = TestBed.createComponent(Ap
