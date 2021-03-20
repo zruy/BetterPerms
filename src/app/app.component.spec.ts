@@ -24,4 +24,5 @@ describe('AppComponent', () => {
   }));
 
   it('should render title in a h1 tag', async(() => {
-    const fixture = TestBed.createComponent(AppCompone
+    const fixture = TestBed.createComponent(AppComponent);
+    fixtu
