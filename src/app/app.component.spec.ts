@@ -27,4 +27,5 @@ describe('AppComponent', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.debugElement.nativeElement;
-    expect(compiled.querySelector('h1').textContent).toContain('Welcome to app
+    expect(compiled.querySelector('h1').textContent).toContain('Welcome to app!!');
+  }))
