@@ -1,1 +1,1 @@
-import { Component }
+import { Component } from '@angula
