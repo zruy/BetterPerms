@@ -1,1 +1,1 @@
-import { Component } from '@angula
+import { Component } from '@angular/core';
