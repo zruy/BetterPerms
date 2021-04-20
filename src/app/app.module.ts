@@ -1,1 +1,1 @@
-import {Brows
+import {BrowserModule} from '@an
