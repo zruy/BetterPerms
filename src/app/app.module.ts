@@ -1,1 +1,1 @@
-import {BrowserModule} from '@angular/p
+import {BrowserModule} from '@angular/platform-br
