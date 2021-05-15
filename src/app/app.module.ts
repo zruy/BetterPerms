@@ -4,4 +4,4 @@ import {RouterModule, Routes} from '@angular/router';
 import {CommonModule} from '@angular/common';
 import {HeroModule} from './modules/hero/hero.module';
 
-import {AppComponen
+import {AppComponent} from './a
