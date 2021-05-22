@@ -5,4 +5,4 @@ import {CommonModule} from '@angular/common';
 import {HeroModule} from './modules/hero/hero.module';
 
 import {AppComponent} from './app.component';
-import {InitComp
+import {InitComponent} from './
