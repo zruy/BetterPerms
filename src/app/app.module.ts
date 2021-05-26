@@ -8,4 +8,5 @@ import {AppComponent} from './app.component';
 import {InitComponent} from './modules/init/InitComponent.component';
 
 
-const appRoutes: Rout
+const appRoutes: Routes = [
+  
