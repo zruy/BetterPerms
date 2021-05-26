@@ -8,4 +8,4 @@ import {AppComponent} from './app.component';
 import {InitComponent} from './modules/init/InitComponent.component';
 
 
-const appR
+const appRoutes: Rout
