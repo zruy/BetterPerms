@@ -10,4 +10,4 @@ import {InitComponent} from './modules/init/InitComponent.component';
 
 const appRoutes: Routes = [
   {path: '', redirectTo: 'init', pathMatch: 'full'},
-  {path: 'in
+  {path: 'init', compone
