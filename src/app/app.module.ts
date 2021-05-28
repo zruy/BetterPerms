@@ -9,4 +9,4 @@ import {InitComponent} from './modules/init/InitComponent.component';
 
 
 const appRoutes: Routes = [
-  {path: '', redirectTo: 'ini
+  {path: '', redirectTo: 'init', pathMatch: 'full
