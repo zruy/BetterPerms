@@ -11,4 +11,6 @@ import {InitComponent} from './modules/init/InitComponent.component';
 const appRoutes: Routes = [
   {path: '', redirectTo: 'init', pathMatch: 'full'},
   {path: 'init', component: InitComponent},
-  {path: 'heroes', loadChildren: './modules/hero/hero.module#Hero
+  {path: 'heroes', loadChildren: './modules/hero/hero.module#HeroModule'}
+];
+@NgMo
