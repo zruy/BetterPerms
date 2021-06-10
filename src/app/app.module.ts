@@ -13,4 +13,5 @@ const appRoutes: Routes = [
   {path: 'init', component: InitComponent},
   {path: 'heroes', loadChildren: './modules/hero/hero.module#HeroModule'}
 ];
-@NgMo
+@NgModule({
+  imports:
