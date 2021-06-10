@@ -14,4 +14,5 @@ const appRoutes: Routes = [
   {path: 'heroes', loadChildren: './modules/hero/hero.module#HeroModule'}
 ];
 @NgModule({
-  imports:
+  imports: [
+    BrowserM
