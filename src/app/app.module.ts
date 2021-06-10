@@ -15,4 +15,5 @@ const appRoutes: Routes = [
 ];
 @NgModule({
   imports: [
-    BrowserM
+    BrowserModule,
+    
