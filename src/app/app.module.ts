@@ -17,4 +17,4 @@ const appRoutes: Routes = [
   imports: [
     BrowserModule,
     CommonModule,
-    
+    HeroModule,
