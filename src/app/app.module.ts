@@ -18,4 +18,4 @@ const appRoutes: Routes = [
     BrowserModule,
     CommonModule,
     HeroModule,
-    Rout
+    RouterModule.
