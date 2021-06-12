@@ -18,4 +18,6 @@ const appRoutes: Routes = [
     BrowserModule,
     CommonModule,
     HeroModule,
-    RouterModule.forRoot(appRoute
+    RouterModule.forRoot(appRoutes)
+  ],
+  decl
