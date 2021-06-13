@@ -21,4 +21,4 @@ const appRoutes: Routes = [
     RouterModule.forRoot(appRoutes)
   ],
   declarations: [
-    A
+    AppComponent,
