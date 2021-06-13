@@ -22,3 +22,4 @@ const appRoutes: Routes = [
   ],
   declarations: [
     AppComponent,
+    InitCom
