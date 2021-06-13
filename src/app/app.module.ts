@@ -20,4 +20,5 @@ const appRoutes: Routes = [
     HeroModule,
     RouterModule.forRoot(appRoutes)
   ],
-  decl
+  declarations: [
+    A
