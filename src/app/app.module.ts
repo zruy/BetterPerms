@@ -23,4 +23,5 @@ const appRoutes: Routes = [
   declarations: [
     AppComponent,
     InitComponent
-  ]
+  ],
+  provider
