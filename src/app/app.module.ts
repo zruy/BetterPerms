@@ -25,4 +25,6 @@ const appRoutes: Routes = [
     InitComponent
   ],
   providers: [],
-  bootstrap: [AppCompone
+  bootstrap: [AppComponent]
+})
+e
