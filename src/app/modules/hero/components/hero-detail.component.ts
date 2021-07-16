@@ -4,4 +4,4 @@
  * Version: 1.0.0
  * Description:
  */
-import {Component, O
+import {Component, OnInit} from '@ang
