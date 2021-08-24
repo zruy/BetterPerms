@@ -5,4 +5,4 @@
  * Description:
  */
 import {Component, OnInit} from '@angular/core';
-import {ActivatedRoute} from '@angular/
+import {ActivatedRoute} from '@angular/rout
