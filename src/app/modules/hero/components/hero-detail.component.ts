@@ -7,4 +7,6 @@
 import {Component, OnInit} from '@angular/core';
 import {ActivatedRoute} from '@angular/router';
 import {HeroService} from '../service/hero.service';
-import {Hero} from '../models/he
+import {Hero} from '../models/hero';
+
+@Co
