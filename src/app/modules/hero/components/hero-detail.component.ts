@@ -9,4 +9,5 @@ import {ActivatedRoute} from '@angular/router';
 import {HeroService} from '../service/hero.service';
 import {Hero} from '../models/hero';
 
-@Co
+@Component({
+  
