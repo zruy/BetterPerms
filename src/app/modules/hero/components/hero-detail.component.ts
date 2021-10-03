@@ -11,4 +11,5 @@ import {Hero} from '../models/hero';
 
 @Component({
   selector: 'app-hero-detail',
-  templateUrl: './hero-detail.component.
+  templateUrl: './hero-detail.component.html',
+  styleUrls
