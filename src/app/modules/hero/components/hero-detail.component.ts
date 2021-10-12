@@ -12,4 +12,4 @@ import {Hero} from '../models/hero';
 @Component({
   selector: 'app-hero-detail',
   templateUrl: './hero-detail.component.html',
-  styleUrls: ['.
+  styleUrls: ['./hero-detail.com
