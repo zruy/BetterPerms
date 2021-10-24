@@ -15,4 +15,4 @@ import {Hero} from '../models/hero';
   styleUrls: ['./hero-detail.component.scss']
 })
 
-export class HeroDet
+export class HeroDetailComponen
