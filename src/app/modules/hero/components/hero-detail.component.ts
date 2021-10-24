@@ -15,4 +15,4 @@ import {Hero} from '../models/hero';
   styleUrls: ['./hero-detail.component.scss']
 })
 
-export class HeroDetailComponent implement
+export class HeroDetailComponent implements OnInit {
