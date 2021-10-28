@@ -16,4 +16,4 @@ import {Hero} from '../models/hero';
 })
 
 export class HeroDetailComponent implements OnInit {
-  sele
+  selectedHero: Her
