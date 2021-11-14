@@ -16,4 +16,5 @@ import {Hero} from '../models/hero';
 })
 
 export class HeroDetailComponent implements OnInit {
-  selectedHero: Her
+  selectedHero: Hero;
+  hero: H
