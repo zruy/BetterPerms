@@ -19,4 +19,5 @@ export class HeroDetailComponent implements OnInit {
   selectedHero: Hero;
   hero: Hero;
 
-  ngO
+  ngOnInit() {
+    t
