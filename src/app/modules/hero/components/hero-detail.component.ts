@@ -20,4 +20,4 @@ export class HeroDetailComponent implements OnInit {
   hero: Hero;
 
   ngOnInit() {
-    t
+    this.ac
