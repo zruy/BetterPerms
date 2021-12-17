@@ -20,4 +20,5 @@ export class HeroDetailComponent implements OnInit {
   hero: Hero;
 
   ngOnInit() {
-    this.activatedRoute.params.subscribe(ro
+    this.activatedRoute.params.subscribe(route => {
+ 
