@@ -26,4 +26,4 @@ export class HeroDetailComponent implements OnInit {
     })
   }
 
-  
+  constructor
