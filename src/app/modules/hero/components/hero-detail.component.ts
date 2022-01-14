@@ -22,4 +22,4 @@ export class HeroDetailComponent implements OnInit {
   ngOnInit() {
     this.activatedRoute.params.subscribe(route => {
       this.selectedHero = this._heroService.getHeroById(route.heroId);
-      thi
+      this.hero = 
