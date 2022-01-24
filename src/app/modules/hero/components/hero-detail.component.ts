@@ -26,4 +26,4 @@ export class HeroDetailComponent implements OnInit {
     })
   }
 
-  constructor(private activatedRo
+  constructor(private activatedRoute: ActivatedR
