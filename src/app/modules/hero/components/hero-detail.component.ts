@@ -30,4 +30,4 @@ export class HeroDetailComponent implements OnInit {
   }
 
   changeName(name) {
-    this.hero.
+    this.hero.name = name
