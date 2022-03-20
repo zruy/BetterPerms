@@ -33,4 +33,5 @@ export class HeroDetailComponent implements OnInit {
     this.hero.name = name;
   }
 
-  ca
+  cancel() {
+ 
