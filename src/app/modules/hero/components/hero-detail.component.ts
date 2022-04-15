@@ -37,4 +37,5 @@ export class HeroDetailComponent implements OnInit {
     this.hero = this.selectedHero;
   }
 
-  ba
+  back() {
+    windo
