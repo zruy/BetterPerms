@@ -34,4 +34,7 @@ export class HeroDetailComponent implements OnInit {
   }
 
   cancel() {
-    this.hero = this.sele
+    this.hero = this.selectedHero;
+  }
+
+  ba
