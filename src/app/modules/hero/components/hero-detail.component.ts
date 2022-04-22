@@ -38,4 +38,4 @@ export class HeroDetailComponent implements OnInit {
   }
 
   back() {
-    windo
+    window.history.ba
