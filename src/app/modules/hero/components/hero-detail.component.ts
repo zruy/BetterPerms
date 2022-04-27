@@ -38,4 +38,5 @@ export class HeroDetailComponent implements OnInit {
   }
 
   back() {
-    window.history.ba
+    window.history.back()
+ 
