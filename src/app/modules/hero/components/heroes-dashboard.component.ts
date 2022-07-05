@@ -5,4 +5,4 @@
  * Description:
  */
 import {Component, OnInit} from '@angular/core';
-import {Her
+import {Hero} from 
