@@ -8,3 +8,6 @@ import {Component, OnInit} from '@angular/core';
 import {Hero} from '../models/hero';
 import {HeroService} from './../service/hero.service';
 import {Router} from "@angular/router";
+
+@Component({
+ 
