@@ -10,4 +10,4 @@ import {HeroService} from './../service/hero.service';
 import {Router} from "@angular/router";
 
 @Component({
-  selecto
+  selector: 'app-hero
