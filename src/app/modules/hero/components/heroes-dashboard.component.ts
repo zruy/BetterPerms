@@ -10,4 +10,5 @@ import {HeroService} from './../service/hero.service';
 import {Router} from "@angular/router";
 
 @Component({
-  selector: 'app-heroes-dashbo
+  selector: 'app-heroes-dashboard',
+  te
