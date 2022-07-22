@@ -11,4 +11,4 @@ import {Router} from "@angular/router";
 
 @Component({
   selector: 'app-heroes-dashboard',
-  templateUrl: './heroes-dashboard.comp
+  templateUrl: './heroes-dashboard.component.h
