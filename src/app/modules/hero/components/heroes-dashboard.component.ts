@@ -12,4 +12,4 @@ import {Router} from "@angular/router";
 @Component({
   selector: 'app-heroes-dashboard',
   templateUrl: './heroes-dashboard.component.html',
-  styleUrls: ['./heroes-dashboard.comp
+  styleUrls: ['./heroes-dashboard.component.scss']
