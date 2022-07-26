@@ -15,4 +15,4 @@ import {Router} from "@angular/router";
   styleUrls: ['./heroes-dashboard.component.scss']
 })
 
-expo
+export class Heroes
