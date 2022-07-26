@@ -13,3 +13,6 @@ import {Router} from "@angular/router";
   selector: 'app-heroes-dashboard',
   templateUrl: './heroes-dashboard.component.html',
   styleUrls: ['./heroes-dashboard.component.scss']
+})
+
+expo
