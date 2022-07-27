@@ -15,4 +15,4 @@ import {Router} from "@angular/router";
   styleUrls: ['./heroes-dashboard.component.scss']
 })
 
-export class HeroesDashboardComponent implements 
+export class HeroesDashboardComponent implements OnInit {
