@@ -18,4 +18,4 @@ import {Router} from "@angular/router";
 export class HeroesDashboardComponent implements OnInit {
   topHeroes: Hero[];
 
- 
+  ngOnInit()
