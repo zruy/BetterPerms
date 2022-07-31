@@ -19,4 +19,4 @@ export class HeroesDashboardComponent implements OnInit {
   topHeroes: Hero[];
 
   ngOnInit() {
-    this.topHeroes = 
+    this.topHeroes = this._heroSe
