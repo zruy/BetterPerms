@@ -19,4 +19,5 @@ export class HeroesDashboardComponent implements OnInit {
   topHeroes: Hero[];
 
   ngOnInit() {
-    this.topHeroes = this._heroService.fetchHeroes().s
+    this.topHeroes = this._heroService.fetchHeroes().slice(0, 5);
+  
