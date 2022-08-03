@@ -22,4 +22,4 @@ export class HeroesDashboardComponent implements OnInit {
     this.topHeroes = this._heroService.fetchHeroes().slice(0, 5);
   }
 
-  constructor(private _h
+  constructor(private _heroService: HeroSe
