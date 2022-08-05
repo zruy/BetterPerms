@@ -24,3 +24,6 @@ export class HeroesDashboardComponent implements OnInit {
 
   constructor(private _heroService: HeroService, private router: Router) {
 
+  }
+
+  route
