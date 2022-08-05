@@ -26,4 +26,4 @@ export class HeroesDashboardComponent implements OnInit {
 
   }
 
-  route
+  routerToHeroDetail(
