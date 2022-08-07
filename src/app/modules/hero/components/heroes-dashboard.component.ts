@@ -27,4 +27,5 @@ export class HeroesDashboardComponent implements OnInit {
   }
 
   routerToHeroDetail(hero: Hero) {
-    this.router.navigate([`/heroes/${he
+    this.router.navigate([`/heroes/${hero.id}`]);
+  }
