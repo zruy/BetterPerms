@@ -27,4 +27,4 @@ export class HeroesDashboardComponent implements OnInit {
   }
 
   routerToHeroDetail(hero: Hero) {
-    this.route
+    this.router.navigate([`/he
