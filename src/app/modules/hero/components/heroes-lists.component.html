@@ -1,0 +1,9 @@
+
+<div class="container">
+  <ul class="list-unstyled">
+    <li *ngFor="let hero of heroes" (click)="routerToHeroDetail(hero)">
+      <label>{{hero.id}}</label>
+      <span>{{hero.name}}</span>
+    </li>
+  </ul>
+</div>
