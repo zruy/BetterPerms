@@ -4,4 +4,4 @@
  * Version: 1.0.0
  * Description:
  */
-import {Component, 
+import {Component, OnInit} from '
