@@ -5,4 +5,4 @@
  * Description:
  */
 import {Component, OnInit} from '@angular/core';
-import {Router} from '@angu
+import {Router} from '@angular/router'
