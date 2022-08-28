@@ -9,3 +9,4 @@ import {Router} from '@angular/router';
 import {Hero} from '../models/hero';
 import {HeroService} from '../service/hero.service';
 
+@Compone
