@@ -10,4 +10,4 @@ import {Hero} from '../models/hero';
 import {HeroService} from '../service/hero.service';
 
 @Component({
-  select
+  selector: 'app-her
