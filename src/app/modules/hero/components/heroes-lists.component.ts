@@ -10,4 +10,4 @@ import {Hero} from '../models/hero';
 import {HeroService} from '../service/hero.service';
 
 @Component({
-  selector: 'app-her
+  selector: 'app-heroes-lists',
