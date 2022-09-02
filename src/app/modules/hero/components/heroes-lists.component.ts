@@ -11,4 +11,4 @@ import {HeroService} from '../service/hero.service';
 
 @Component({
   selector: 'app-heroes-lists',
-  templateUrl: './heroes-li
+  templateUrl: './heroes-lists.component.htm
