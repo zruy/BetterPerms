@@ -15,4 +15,4 @@ import {HeroService} from '../service/hero.service';
   styleUrls: ['./heroes-lists.component.scss']
 })
 
-export class
+export class Heroes
