@@ -15,4 +15,5 @@ import {HeroService} from '../service/hero.service';
   styleUrls: ['./heroes-lists.component.scss']
 })
 
-export class HeroesListsComponent implements 
+export class HeroesListsComponent implements OnInit {
+  h
