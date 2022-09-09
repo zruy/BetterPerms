@@ -16,4 +16,4 @@ import {HeroService} from '../service/hero.service';
 })
 
 export class HeroesListsComponent implements OnInit {
-  h
+  heroes: He
