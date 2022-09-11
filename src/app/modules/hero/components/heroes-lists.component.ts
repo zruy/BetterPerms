@@ -18,4 +18,4 @@ import {HeroService} from '../service/hero.service';
 export class HeroesListsComponent implements OnInit {
   heroes: Hero[];
 
-  constructor(private _heroService: Her
+  constructor(private _heroService: HeroService, priva
