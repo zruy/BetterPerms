@@ -22,4 +22,5 @@ export class HeroesListsComponent implements OnInit {
 
   }
 
-  ng
+  ngOnInit() {
+   
