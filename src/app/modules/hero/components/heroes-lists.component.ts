@@ -23,4 +23,7 @@ export class HeroesListsComponent implements OnInit {
   }
 
   ngOnInit() {
-    this.heroes = this._heroService.fetchHero
+    this.heroes = this._heroService.fetchHeroes()
+  }
+
+  rou
