@@ -26,4 +26,5 @@ export class HeroesListsComponent implements OnInit {
     this.heroes = this._heroService.fetchHeroes()
   }
 
-  routerToHeroDetail(hero: H
+  routerToHeroDetail(hero: Hero) {
+    this.r
