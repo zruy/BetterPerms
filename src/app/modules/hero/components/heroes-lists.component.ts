@@ -27,4 +27,4 @@ export class HeroesListsComponent implements OnInit {
   }
 
   routerToHeroDetail(hero: Hero) {
-    this.r
+    this.router.nav
