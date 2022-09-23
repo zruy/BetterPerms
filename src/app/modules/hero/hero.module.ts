@@ -24,3 +24,8 @@ const heroRoutes: Routes = [
     {path: '', redirectTo: 'dashboard', pathMatch: 'full'},
     {path: 'dashboard', component: HeroesDashboardComponent},
     {path: 'lists', component: HeroesListsComponent},
+    {path: ':heroId', component: HeroDetailComponent}
+  ]
+  }
+];
+@NgModule({
