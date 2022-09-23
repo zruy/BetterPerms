@@ -27,4 +27,6 @@ export class HeroesListsComponent implements OnInit {
   }
 
   routerToHeroDetail(hero: Hero) {
-    this.router.navigate([`/heroes/${hero.id}`
+    this.router.navigate([`/heroes/${hero.id}`]);
+  }
+}
