@@ -13,3 +13,14 @@ import {FormsModule} from '@angular/forms';
 import {HeroService} from './service/hero.service';
 
 import {HeroesPageComponent} from './pages/heroes.page';
+import {HeroesDashboardComponent} from './components/heroes-dashboard.component';
+import {HeroesListsComponent} from './components/heroes-lists.component';
+import {HeroDetailComponent} from './components/hero-detail.component';
+
+
+const heroRoutes: Routes = [
+  {
+    path: 'heroes', component: HeroesPageComponent, children: [
+    {path: '', redirectTo: 'dashboard', pathMatch: 'full'},
+    {path: 'dashboard', component: HeroesDashboardComponent},
+    {path: 'lists', component: HeroesListsComponent},
