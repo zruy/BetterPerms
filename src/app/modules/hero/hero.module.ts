@@ -29,3 +29,17 @@ const heroRoutes: Routes = [
   }
 ];
 @NgModule({
+  imports: [
+    CommonModule,
+    FormsModule,
+    RouterModule.forChild(heroRoutes)
+  ],
+  declarations: [
+    HeroesPageComponent,
+    HeroesDashboardComponent,
+    HeroesListsComponent,
+    HeroDetailComponent,
+  ],
+  providers: [
+    HeroService
+  ],
