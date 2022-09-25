@@ -43,3 +43,8 @@ const heroRoutes: Routes = [
   providers: [
     HeroService
   ],
+  exports: [],
+})
+
+export class HeroModule {
+}
