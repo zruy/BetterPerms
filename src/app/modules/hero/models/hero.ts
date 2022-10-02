@@ -5,4 +5,4 @@
  * Description:
  */
 
-inte
+interface IHer
