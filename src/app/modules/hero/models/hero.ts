@@ -5,4 +5,5 @@
  * Description:
  */
 
-interface IHeroInterface
+interface IHeroInterface {
+  id?: string 
