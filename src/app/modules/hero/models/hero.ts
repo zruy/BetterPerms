@@ -5,4 +5,4 @@
  * Description:
  */
 
-interface IHer
+interface IHeroInterface
