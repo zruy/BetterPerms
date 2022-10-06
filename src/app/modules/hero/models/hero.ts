@@ -6,4 +6,5 @@
  */
 
 interface IHeroInterface {
-  id?: string 
+  id?: string | number;
+  name?
