@@ -7,4 +7,7 @@
 
 interface IHeroInterface {
   id?: string | number;
-  name?
+  name?: string;
+}
+
+exp
