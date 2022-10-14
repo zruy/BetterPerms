@@ -10,4 +10,4 @@ interface IHeroInterface {
   name?: string;
 }
 
-exp
+export class Hero 
