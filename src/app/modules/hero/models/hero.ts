@@ -10,4 +10,4 @@ interface IHeroInterface {
   name?: string;
 }
 
-export class Hero 
+export class Hero implements IHer
