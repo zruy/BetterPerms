@@ -11,4 +11,4 @@ interface IHeroInterface {
 }
 
 export class Hero implements IHeroInterface {
-  id: s
+  id: string | number
