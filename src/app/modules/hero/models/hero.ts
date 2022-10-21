@@ -15,4 +15,4 @@ export class Hero implements IHeroInterface {
   name: string;
 
   static createByJSON(json: IHeroInterface = {}) {
-    const {
+    const {id, name} = j
