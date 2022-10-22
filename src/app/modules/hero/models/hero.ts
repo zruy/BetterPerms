@@ -15,4 +15,5 @@ export class Hero implements IHeroInterface {
   name: string;
 
   static createByJSON(json: IHeroInterface = {}) {
-    const {id, name} = j
+    const {id, name} = json;
+    ret
