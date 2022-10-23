@@ -19,4 +19,4 @@ export class Hero implements IHeroInterface {
     return new Hero({id, name});
   }
 
-  const
+  constructor(attr: IH
