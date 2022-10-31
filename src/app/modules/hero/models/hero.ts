@@ -19,4 +19,5 @@ export class Hero implements IHeroInterface {
     return new Hero({id, name});
   }
 
-  constructor(attr: IHeroInterface 
+  constructor(attr: IHeroInterface = {}) {
+    
