@@ -22,3 +22,6 @@ export class Hero implements IHeroInterface {
   constructor(attr: IHeroInterface = {}) {
     this.id = attr.id;
     this.name = attr.name;
+  }
+
+}
