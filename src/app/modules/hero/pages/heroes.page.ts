@@ -4,4 +4,4 @@
  * Version: 1.0.0
  * Description:
  */
-import {Component, OnInit} from '@angula
+import {Component, OnInit} from '@angular/core'
