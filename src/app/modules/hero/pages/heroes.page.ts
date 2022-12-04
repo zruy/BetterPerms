@@ -6,4 +6,5 @@
  */
 import {Component, OnInit} from '@angular/core';
 
-@Componen
+@Component({
+  sel
