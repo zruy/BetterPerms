@@ -8,4 +8,4 @@ import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-heroes-root',
-  te
+  templateUrl:
