@@ -7,4 +7,4 @@
 import {Component, OnInit} from '@angular/core';
 
 @Component({
-  sel
+  selector: 'app
