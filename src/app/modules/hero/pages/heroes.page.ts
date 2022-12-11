@@ -8,4 +8,5 @@ import {Component, OnInit} from '@angular/core';
 
 @Component({
   selector: 'app-heroes-root',
-  templateUrl: './heroes.page.h
+  templateUrl: './heroes.page.html',
+  styleU
