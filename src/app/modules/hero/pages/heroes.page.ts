@@ -9,4 +9,7 @@ import {Component, OnInit} from '@angular/core';
 @Component({
   selector: 'app-heroes-root',
   templateUrl: './heroes.page.html',
-  styleUrls: ['./heroes.page.s
+  styleUrls: ['./heroes.page.scss']
+})
+
+e
