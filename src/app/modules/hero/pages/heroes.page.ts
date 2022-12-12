@@ -9,4 +9,4 @@ import {Component, OnInit} from '@angular/core';
 @Component({
   selector: 'app-heroes-root',
   templateUrl: './heroes.page.html',
-  styleU
+  styleUrls: ['./
