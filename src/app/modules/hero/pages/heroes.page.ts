@@ -12,4 +12,4 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./heroes.page.scss']
 })
 
-e
+export class H
