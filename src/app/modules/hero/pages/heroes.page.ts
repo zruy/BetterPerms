@@ -12,4 +12,5 @@ import {Component, OnInit} from '@angular/core';
   styleUrls: ['./heroes.page.scss']
 })
 
-export class HeroesPageComponent implements OnI
+export class HeroesPageComponent implements OnInit {
+  constr
