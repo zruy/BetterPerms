@@ -13,4 +13,8 @@ import {Component, OnInit} from '@angular/core';
 })
 
 export class HeroesPageComponent implements OnInit {
-  constructor() 
+  constructor() {
+
+  }
+
+  ng
