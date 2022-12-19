@@ -19,3 +19,4 @@ export class HeroesPageComponent implements OnInit {
 
   ngOnInit() {
   }
+}
