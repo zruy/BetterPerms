@@ -15,3 +15,9 @@ export class HeroService {
     const heroes = MockData.HEROES;
     return heroes.map(hero => Hero.createByJSON(hero));
   }
+
+  getHeroById(heroId: string | number) {
+    const heroes = MockData.HEROES;
+    return heroes.find(hero => +hero.id === +heroId);
+  }
+}
