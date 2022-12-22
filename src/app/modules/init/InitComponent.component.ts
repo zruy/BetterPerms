@@ -7,3 +7,10 @@
  */
 import {Component} from "@angular/core";
 @Component({
+  selector: 'app-init-component',
+  template: `app-init-component`
+})
+
+export class InitComponent {
+
+}
