@@ -1,1 +1,2 @@
-export const enviro
+export const environment = {
+  p
