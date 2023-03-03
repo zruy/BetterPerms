@@ -1,2 +1,3 @@
 {
-  "extends": "../tsconfig.js
+  "extends": "../tsconfig.json",
+  "compiler
