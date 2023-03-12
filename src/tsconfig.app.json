@@ -3,4 +3,5 @@
   "compilerOptions": {
     "outDir": "../out-tsc/app",
     "module": "es2015",
-    "baseUrl"
+    "baseUrl": "",
+ 
