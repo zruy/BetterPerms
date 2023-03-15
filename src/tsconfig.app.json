@@ -6,4 +6,5 @@
     "baseUrl": "",
     "types": []
   },
-  "excl
+  "exclude": [
+    "t
