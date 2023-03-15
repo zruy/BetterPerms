@@ -7,4 +7,5 @@
     "types": []
   },
   "exclude": [
-    "t
+    "test.ts",
+  
