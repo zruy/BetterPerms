@@ -1,1 +1,2 @@
-/* SystemJS module definition
+/* SystemJS module definition */
+declare
