@@ -1,1 +1,1 @@
-/* SystemJS mod
+/* SystemJS module definition
