@@ -1,2 +1,2 @@
 /* SystemJS module definition */
-declare var module: Nod
+declare var module: NodeModule;
